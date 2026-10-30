@@ -1,0 +1,4 @@
+{"jobs":[
+ {"id":101,"title":"Full Stack Developer","absolute_url":"https://boards.greenhouse.io/acme/jobs/101","company_name":"Acme","location":{"name":"Frankfurt am Main"},"content":"&lt;p&gt;We are looking for a developer with TypeScript, React, Node.js and PostgreSQL experience. You will work with our team and Docker.&lt;/p&gt;","first_published":"2026-10-20T10:00:00Z","departments":[{"name":"Engineering"}]},
+ {"id":102,"title":"Accountant","absolute_url":"https://boards.greenhouse.io/acme/jobs/102","company_name":"Acme","location":{"name":"Berlin"},"content":"&lt;p&gt;Accounting with DATEV.&lt;/p&gt;"}
+]}
